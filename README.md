@@ -9,12 +9,3 @@ for
 resume
 and 
 skills
-1
-2
-3
-45
-6
-7
-8
-9
-1011
