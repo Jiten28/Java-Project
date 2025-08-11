@@ -9,5 +9,3 @@ for
 resume
 and 
 skills
-1
-tw3w
