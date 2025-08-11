@@ -1,4 +1,4 @@
-3# Java-Project
+# Java-Project
 this
 is
 my 
@@ -10,5 +10,3 @@ resume
 and 
 skills
 1
-2
-3
