@@ -1,6 +1,5 @@
 # Java-Project
-this
-is
+this is
 my 
 first
 java
