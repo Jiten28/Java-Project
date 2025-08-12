@@ -1,6 +1,5 @@
 # Java-Project
-this is my first
-java
+this is my firstjava
 project
 for 
 resume
